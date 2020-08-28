@@ -1,5 +1,5 @@
 # Loan Approval Prediction
-[![HitCount](http://hits.dwyl.io/ParthS007/Loan-Approval-Prediction.svg)](https://github.com/shubhamvgarg/bankloan)
+
 
 ## Model
 - Logistic Regression Model 
