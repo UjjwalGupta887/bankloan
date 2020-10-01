@@ -1,4 +1,4 @@
-# Loan Approval Prediction
+# Loan Approval Predictions
 
 
 ## Model
@@ -8,7 +8,7 @@
 
 ## Technologies:
 - Programming Language: Python
-- Libraries: Pandas, Scikit-learn, Matplotlib, Numpy
+- Libraries: Pandas, Scikit-learn, Matplotlib, Numpy.
 
 ## Data Source:
 - Datahack
